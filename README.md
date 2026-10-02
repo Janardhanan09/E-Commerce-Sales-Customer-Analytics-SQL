@@ -33,7 +33,7 @@ The database contains the following tables:
 
 !\[Database Tables](Screenshots/database\_tables.png)
 
-## 🛠️ Tools \& Technologies
+🛠️ Tools \& Technologies
 
 * MySQL
 * MySQL Workbench
