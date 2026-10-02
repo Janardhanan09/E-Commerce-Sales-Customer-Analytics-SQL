@@ -27,6 +27,12 @@ The database contains the following tables:
 * Perform customer and sales analysis using SQL
 * Practice SQL joins, aggregations, subqueries, and window functions
 
+\## 📸 Database Structure
+
+
+
+!\[Database Tables](Screenshots/database\_tables.png)
+
 ## 🛠️ Tools \& Technologies
 
 * MySQL
@@ -36,7 +42,7 @@ The database contains the following tables:
 
 
 
-&#x20;🔍 Key Analysis
+\##🔍 Key Analysis
 
 * 
 * \- Analyzed customer and order information
