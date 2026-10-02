@@ -49,7 +49,22 @@ The database contains the following tables:
 - SQL
 - GitHub
 
-## &#128203; SQL Concepts Used
+## Business Questions & SQL Analysis
+
+- What are the total sales and total number of orders?
+- Which products generate the highest sales?
+- Which product categories perform best?
+- Who are the top customers based on total spending?
+- What are the different payment methods used by customers?
+- What is the payment status distribution?
+- How many orders have been returned?
+- What are the most common return reasons?
+- Which customers have placed the most orders?
+- How can SQL JOINs be used to combine customer, order, product, payment, and return data?
+- How can aggregate functions and GROUP BY be used for business analysis?
+- How can RANK() and window functions be used to identify top-performing products or customers?
+
+## &#9881; SQL Concepts Used 
 
 - SELECT
 - WHERE
